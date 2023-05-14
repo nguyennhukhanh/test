@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "3.6.9",
+  "description": "Write the source code for the triangle problem, build the Test class and run it.",
+  "main": "Triangle.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KWalkerNNK/test.git"
+  },
+  "author": "Khanh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KWalkerNNK/test/issues"
+  },
+  "homepage": "https://github.com/KWalkerNNK/test#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
